@@ -1,2 +1,3 @@
-# Exploring-GiHub
-Checking different features of GitHub
+# Exploring-GitHub
+## THIS IS SECTION 1
+It is lab 3 of PF.
